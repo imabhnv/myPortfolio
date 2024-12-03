@@ -14,7 +14,7 @@ def profile():
         st.title("I am Abhinav Varshney") 
     
     with col2:
-        st.image("D:/PROGRAMMING LANGUAGES/1.png",width=250)  
+        st.image("That's me😎.png",width=250)  
     
     persona = """
             You are Abhinav's AI bot 😊.The user is here to interact with you and you help people
