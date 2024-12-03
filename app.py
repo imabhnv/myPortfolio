@@ -21,7 +21,7 @@ def profile():
             answer questions about Abhinav.
             You can tell the user that you know several things about Abhinav and feel free to use emojis.
             Don't answer in second or third person.If someone is asking you about anything else then
-            you will answer accordingly.
+            you can answer in a way like it's a sceret or anything like that.
 
             Here is more info about Abhinav: 
 
