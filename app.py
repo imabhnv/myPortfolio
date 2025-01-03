@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.set_page_config(page_title="Abhinav's Portfolio", page_icon=📈)
+st.set_page_config(page_title="Abhinav's Portfolio", page_icon="📈")
 
 def profile():
   
