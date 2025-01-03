@@ -1,6 +1,8 @@
 import streamlit as st
 import google.generativeai as genai
 
+st.set_page_config(page_title="Abhinav's Portfolio", page_icon=📈)
+
 def profile():
   
     api_key = st.secrets["API_KEY"] #your gemini api key
